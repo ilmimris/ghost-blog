@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0f4deb3-73e9-4972-b1c5-50aaaae9507b/deploy-status)](https://app.netlify.com/sites/mris/deploys)
+
 # Gatsby Starter Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
